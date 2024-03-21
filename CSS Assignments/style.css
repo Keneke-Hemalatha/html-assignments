@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: rgb(96, 236, 96);
+  }
+  
+  h1 {
+    color: #333;
+    text-decoration: underline;
+  }
+  
+  p {
+    color: #666;
+    line-height: 1.5;
+  }
+  
+  ul {
+    list-style-type: disc;  /* Change list style (e.g., disc, circle, square) */
+    padding-left: 20px;     /* Add indentation to list items */
+  }
+  
+  li {
+    margin-bottom: 5px;     /* Add space between list items */
+  }
+  
